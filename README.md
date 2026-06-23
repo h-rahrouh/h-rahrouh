@@ -12,11 +12,11 @@
 > I build robust, scalable platforms for ISPs and network operators. Currently deep in **[NEXXGLASS](https://nexxglass.com)** — a full-featured ISP IPAM & service operations platform covering IP management, membership lifecycle, billing hooks, and real-time notifications.
 >
 > - 🔭 Currently building: **NEXXGLASS** — ISP IPAM & Service Ops Platform
-> - - 🌱 Focused on: **Python · FastAPI · SQLAlchemy · Network Engineering**
->   - - 💬 Ask me about: ISP platforms, network automation, API design
->     - - 📫 Reach me at: [nexxglass.com](https://nexxglass.com)
+> - 🌱 Focused on: **Python · FastAPI · SQLAlchemy · Network Engineering**
+> - 💬 Ask me about: ISP platforms, network automation, API design
+> - 📫 Reach me at: [nexxglass.com](https://nexxglass.com)
 >      
->       - ---
+
 >
 > ## 🛠️ Tech Stack
 >
